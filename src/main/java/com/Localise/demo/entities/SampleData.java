@@ -17,4 +17,8 @@ public class SampleData {
     @GeneratedValue
     private Long id;
     private String name;
+
+    public SampleData(String name) {
+        this.name = name;
+    }
 }

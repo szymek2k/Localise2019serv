@@ -1,6 +1,0 @@
-Bootiful Development with Spring Boot and React (example spring app)
-https://developer.okta.com/blog/2017/12/06/bootiful-development-with-spring-boot-and-react
-https://www.youtube.com/watch?v=P6rwKHnXUJI
-
-(JPA) https://kobietydokodu.pl/13-baza-danych-z-jpa-cz-1/
-https://dev.to/martinbelev/how-to-enable-junit-5-in-new-spring-boot-project-29a8

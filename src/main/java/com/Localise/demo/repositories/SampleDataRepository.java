@@ -1,7 +1,7 @@
 
-package repositories;
+package com.Localise.demo.repositories;
 
-import entities.SampleData;
+import com.Localise.demo.entities.SampleData;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

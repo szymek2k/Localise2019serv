@@ -1,0 +1,25 @@
+Bootiful Development with Spring Boot and React (example spring app)
+https://developer.okta.com/blog/2017/12/06/bootiful-development-with-spring-boot-and-react
+https://www.youtube.com/watch?v=P6rwKHnXUJI
+https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application
+
+(JPA) https://kobietydokodu.pl/13-baza-danych-z-jpa-cz-1/
+https://dev.to/martinbelev/how-to-enable-junit-5-in-new-spring-boot-project-29a8
+
+https://dzone.com/articles/spring-boot-applicationrunner-and-commandlinerunne
+
+@SpringBootApplication(scanBasePackages = {"boot.registration"} , exclude = JpaRepositoriesAutoConfiguration.class)
+https://github.com/spring-projects/spring-boot/issues/6987
+designing applications with spring boot 2.2 and react js
+https://books.google.pl/books?id=cgKwDwAAQBAJ&pg=PT57&lpg=PT57&dq=JpaRepositoriesAutoConfiguration.class)&source=bl&ots=G7POvJwB96&sig=ACfU3U3MqkmtJVdRgnwwEMLWPFGp7IKOCg&hl=pl&sa=X&ved=2ahUKEwiyu8il6cnlAhWGKVAKHUJhAUEQ6AEwBnoECAgQAQ#v=onepage&q=JpaRepositoriesAutoConfiguration.class)&f=false
+
+
+error controller:
+https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-autoconfigure/src/main/java/org/springframework/boot/autoconfigure/web/servlet/error/BasicErrorController.java
+https://stackoverflow.com/questions/31134333/this-application-has-no-explicit-mapping-for-error
+https://stackoverflow.com/questions/25356781/spring-boot-remove-whitelabel-error-page
+
+!!! https://www.logicbig.com/tutorials/spring-framework/spring-boot/auto-config-scan.html
+With Spring, we use the @ComponentScan annotation along with @Configuration annotation to specify the packages 
+that we want to be scanned. @ComponentScan without arguments tells Spring to scan the current package and all of its
+ sub-packages.

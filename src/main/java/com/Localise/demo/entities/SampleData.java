@@ -1,4 +1,4 @@
-package entities;
+package com.Localise.demo.entities;
 
 import lombok.*;
 
